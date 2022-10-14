@@ -3,11 +3,11 @@ class config:
     APP_ID = "8070572"
     API_HASH = "f12823df1b70aa8dd0361c0147a81a74"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    SUDO_USERS = "1968319253" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "386274141219-fdsbvupasi382p362im8v8fp3s0n82r4.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "ZKF_VZjgVaoil6ME751ukhL8"
 
 
 class BotCommands:
