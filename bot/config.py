@@ -4,7 +4,7 @@ class config:
     API_HASH = "f12823df1b70aa8dd0361c0147a81a74"
     DATABASE_URL = "jdbc:postgresql://dpg-cd4bmren6mpnogj8nu9g-a:5432/basededatos_hm06"
     SUDO_USERS = "1968319253" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://t.me/+WQbeTjQ8J6U3OThh"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "386274141219-fdsbvupasi382p362im8v8fp3s0n82r4.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "ZKF_VZjgVaoil6ME751ukhL8"
